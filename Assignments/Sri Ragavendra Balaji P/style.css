@@ -1,0 +1,15 @@
+img {
+	border-width: 3px;
+	border-radius: 20px;
+	border-color: black;
+	border-style: solid;
+	padding: 10px 10px 10px 10px;
+}
+
+#third, #fourth {
+	float: right;
+}
+
+#first, #second, #fifth {
+	float: left;
+}
